@@ -1,3 +1,3 @@
 # EasyMusic
 markdown language 
-#project notes
+## project notes
