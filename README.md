@@ -1,0 +1,2 @@
+# EasyMusic
+#project notes
